@@ -1272,7 +1272,7 @@ ul {
     gap: 30px;
     margin-left: 0;
   }
-  .our-trainers-card > div {
+  .our-trainers-card {
     width: 90%;
     max-width: 280px;
     margin: 0 auto;
