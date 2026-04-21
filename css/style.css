@@ -166,15 +166,17 @@ ul {
 }
 
 .black_points--1 {
-  position: absolute;
+  /* position: absolute;
   top: 349px;
-  left: 1360px;
+  left: 1360px; */
+  display: none;
 }
 
 .black_points--2 {
-  position: absolute;
+  /* position: absolute;
   top: 616px;
-  right: 350px;
+  right: 350px; */
+  display: none;
 }
 
 .welcome__text {
@@ -278,9 +280,10 @@ ul {
 }
 
 .find-quality_svg {
-  position: absolute;
+  /* position: absolute;
   top: 915px;
-  left: -17px;
+  left: -17px; */
+  display: none;
 }
 
 .find-quality_title-block {
@@ -433,9 +436,10 @@ ul {
 }
 
 .our-trainer_svg {
-  position: absolute;
+  /* position: absolute;
   top: 2262px;
-  left: 1250px;
+  left: 1250px; */
+  display: none;
 }
 
 .our-trainer_block--title {
@@ -582,9 +586,10 @@ ul {
 }
 
 .client-block_svg {
-  position: absolute;
+  /* position: absolute;
   top: 3689px;
-  left: 38px;
+  left: 38px; */
+  display: none;
 }
 
 .client-block--title {
